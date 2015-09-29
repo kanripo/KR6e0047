@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:44.351994
+#+DATE: 2015-09-28 22:56:45.718430
 #+TITLE: 大方廣普賢所說經
 #+PROPERTY: CBETA_ID T10n0298
 #+PROPERTY: ID KR6e0047
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 298
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0047_T_001-0883a> 
 #+PROPERTY: JUAN 1
 ¶
-No.298¶
-
- 《大方廣普賢所說經》一卷¶
+No. 298¶
+《大方廣普賢所說經》一卷¶
 ¶
 唐于闐三藏實叉難陀譯¶
 
@@ -142,7 +141,7 @@ No.298¶
 時¶
 普賢菩薩，復告大眾：「諸佛子！此法唯是行普¶
 賢行，為善知識所攝受者，乃得聞見。是故汝¶
-等，於此法門，作金剛心，增上意樂，護持讀¶
+等，於此法門，作金剛心，增上意樂，說持讀¶
 誦，勿令忘失。」
 
 說此法時，彼諸菩薩摩訶薩等，¶
