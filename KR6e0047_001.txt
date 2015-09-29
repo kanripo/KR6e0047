@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:44.351994
+#+DATE: 2015-09-28 22:56:45.528558
 #+TITLE: 大方廣普賢所說經
 #+PROPERTY: CBETA_ID T10n0298
 #+PROPERTY: ID KR6e0047
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 298
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6e0047_T_001-0883a> 
 #+PROPERTY: JUAN 1
 ¶
-No.298¶
-
- 《大方廣普賢所說經》一卷¶
+No. 298¶
+《大方廣普賢所說經》一卷¶
 ¶
 唐于闐三藏實叉難陀譯¶
 
